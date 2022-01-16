@@ -11,12 +11,12 @@
 ### Установка через CDN
 Если вы хотите подключить только CSS (без Javascript-плагинов), добавьте в ваши html-файлы следующий код:
 
-'''html
+```html
 <link rel="stylesheet"
     href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
     integrity="sha284-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkF0JwJ8ERdknLPMO"
     crossorigin="anonymous">
-'''
+```
 
 ### Установка через NPM
 Откройте консоль и выполните следующую команду: npm install bootstrap
